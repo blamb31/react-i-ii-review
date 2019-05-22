@@ -4,13 +4,23 @@ Answer these on your own, then compare answers as a group
 
 1.  What are props?
 
+<!-- Props are like attributes from HTML/CSS. They are able to be passed from parent components to child components -->
+
 2.  How do you pass props from a parent to a child?
+
+<!-- When the child tag is rendered, in the tag  -->
 
 3.  How do you access props from a class based child component?
 
+<!-- this.props.propName -->
+
 4.  How do you access props from a functional component?
 
+<!-- props.propName -->
+
 5.  How do you bind a function to a parent component so that it can be passed to a child?
+
+<!-- this.funcName = this.funcName.bind(this) -->
 
 ### Understand
 
